@@ -76,8 +76,10 @@ Enter Semester 2 Result (GPA): 3.5
 
 <div style="text-align: center;">
 
-  $\text{GPA} = \frac{\sum(\text{Credit} \times \text{Grade Point})}{\sum \text{Credits}}$
-
+$$
+\text{GPA} = \frac{\sum(\text{Credit} \times \text{Grade Point})}{\sum \text{Credits}}
+$$
+    
 </div>
 
 - **CGPA:** Calculated as the average of all GPAs from the individual semesters.
